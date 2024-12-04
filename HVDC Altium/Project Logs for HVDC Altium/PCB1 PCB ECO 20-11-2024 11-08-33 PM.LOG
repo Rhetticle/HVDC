@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C40
+Change Component Designator: OldDesignator=C? NewDesignator=C41
+Change Component Designator: OldDesignator=D? NewDesignator=D9
+Added Member To Class: ClassName=HV Section Member=Component C13 10u
+Added Member To Class: ClassName=HV Section Member=Component C14 10u
+Added Member To Class: ClassName=HV Section Member=Component C16 10u
+Added Member To Class: ClassName=HV Section Member=Component C18 10u
+Added Member To Class: ClassName=HV Section Member=Component C41 10u

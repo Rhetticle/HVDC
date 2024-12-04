@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=       NewDesignator=C4
+Change Net Name : Old Net Name=GND New Net Name=HV-
+Change Net Name : Old Net Name=NetF1_2 New Net Name=HV+
+Added Member To Class: ClassName=STM32 Member=Component R7 10
+Added Member To Class: ClassName=STM32 Member=Component R8 1M33
+Added Rule: Name=Schematic Supply Nets_4

@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=*-17
+Removed Pin From Net: NetName=ON_BTN Pin=D6-1
+Removed Pin From Net: NetName=ON_BTN Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P3-2
+Removed Pin From Net: NetName=VBAT Pin=Q1-
+Removed Pin From Net: NetName=VBAT Pin=Q2-
+Removed Pin From Net: NetName=PRIMARY_H Pin=Q3-
+Removed Pin From Net: NetName=PRIMARY_L Pin=Q4-
+Removed Pin From Net: NetName=3V3 Pin=R10-2
+Removed Pin From Net: NetName=VBAT Pin=U1-3
+Removed Pin From Net: NetName=VBAT Pin=U2-3
+Added Pin To Net: NetName=3V3 Pin=D6-1
+Added Pin To Net: NetName=3V3 Pin=P3-1
+Added Pin To Net: NetName=ON_BTN Pin=P3-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=ON_BTN Pin=U1-3
+Added Pin To Net: NetName=ON_BTN Pin=U2-3
+Added Member To Class: ClassName=HV Section Member=Component C13 10u
+Added Member To Class: ClassName=HV Section Member=Component C14 10u
+Added Member To Class: ClassName=HV Section Member=Component C16 10u
+Added Member To Class: ClassName=HV Section Member=Component C18 10u
+Added Member To Class: ClassName=HV Section Member=Component C40 10u

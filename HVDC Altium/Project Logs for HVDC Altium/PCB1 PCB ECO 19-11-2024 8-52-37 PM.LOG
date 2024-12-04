@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Added Member To Class: ClassName=STM32 Member=Component D4 SMAJ5.0A-TR
+Added Member To Class: ClassName=STM32 Member=Component D5 ESD9R3.3ST5G
+Added Member To Class: ClassName=STM32 Member=Component D7 ESD9R3.3ST5G

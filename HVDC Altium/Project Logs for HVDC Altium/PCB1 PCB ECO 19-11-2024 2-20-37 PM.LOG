@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=HV+ New Net Name=CAP+
+Change Net Name : Old Net Name=HV- New Net Name=GND
+Added Rule: Name=Schematic Supply Nets_2

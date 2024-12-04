@@ -1,0 +1,27 @@
+Circuit: * C:\Users\rhett\OneDrive\Documents\Taser V2\Simulations\Taser V2.asc
+
+Error on line 11 : s1 n006 nc_01 n001 n002 sw
+	 Unable to find definition of model "sw"
+WARNING: Node N002 is floating.
+
+WARNING: Less than two connections to node N007.  This node is used by L4.
+WARNING: Less than two connections to node NC_01.  This node is used by S1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Nov 23 13:35:10 2024
+Total elapsed time: 3.678 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 465432
+traniter = 465413
+tranpoints = 129728
+accept = 99621
+rejected = 30107
+matrix size = 44
+fillins = 8
+solver = Normal
+Matrix Compiler1: 2.51 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 3.33 KB object code size  0.2/1.0/[0.2]
+

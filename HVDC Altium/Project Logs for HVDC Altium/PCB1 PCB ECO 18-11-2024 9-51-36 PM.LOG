@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=PWML Pin=U1-2
+Added Pin To Net: NetName=PWMH Pin=U2-2
+Added Member To Class: ClassName=STM32 Member=Component R? 1M33

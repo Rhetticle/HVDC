@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=HV Section.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=HV Section.SchDoc|FileName=Power.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=HV Section.SchDoc|FileName=STM32.SchDoc|SheetNumber=2

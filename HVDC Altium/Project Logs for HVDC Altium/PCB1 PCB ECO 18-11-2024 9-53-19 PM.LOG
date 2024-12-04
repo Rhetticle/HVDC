@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PRIMARY_H Pin=T1-1
+Removed Pin From Net: NetName=PRIMARY_L Pin=T1-2
+Added Pin To Net: NetName=PRIMARY_L Pin=T1-1
+Added Pin To Net: NetName=PRIMARY_H Pin=T1-2
+Added Member To Class: ClassName=STM32 Member=Component R? 1M33

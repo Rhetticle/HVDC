@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VBAT Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=VBAT Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=VBAT Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=VBAT Pin=C18-2
+Removed Member From Class: ClassName=HV Section Member=C13
+Removed Member From Class: ClassName=HV Section Member=C14
+Removed Member From Class: ClassName=HV Section Member=C16
+Removed Member From Class: ClassName=HV Section Member=C18
+Added Member To Class: ClassName=HV Section Member=Component C? 10u
+Added Member To Class: ClassName=HV Section Member=Component C? 10u
+Added Member To Class: ClassName=HV Section Member=Component C? 10u
+Added Member To Class: ClassName=HV Section Member=Component C? 10u
+Added Member To Class: ClassName=HV Section Member=Component C? 10u
